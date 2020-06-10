@@ -1,4 +1,4 @@
-import pyautogui as r
+
 
 #lqm33.py
 
